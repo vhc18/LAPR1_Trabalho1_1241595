@@ -3,3 +3,5 @@ Ficheiro com extensão .md. O readme contém informações necessárias para ent
 Statshing é para "congelar" o codigo para conseguir mudar de branch sem perder o codigo, ou seja, guardar o codigo.
 
 git -stash
+
+Não tenho pull request
