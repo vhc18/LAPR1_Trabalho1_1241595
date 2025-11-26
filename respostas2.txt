@@ -1,0 +1,1 @@
+Ficheiro com extensão .md. O readme contém informações necessárias para entender o objetivo do projeto. 
